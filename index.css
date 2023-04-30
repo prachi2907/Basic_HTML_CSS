@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+#hero{
+    /* background-image: (url(../Hotel/images/bg/heroimage.jpg)); */
+    margin: 0;
+     background: url(../Hotel/images/bg/heroimage.jpg);
+     background-size: cover;
+    width: 1260px;
+    height: 500px;
+    /* text-align: center;
+    margin: 0 auto; */
+    
+   
+    
+}
+#wel{
+    text-align: center;
+    font-size: 90px;
+    margin-top: 25%;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    
+} 
+#ben{
+    width: 1260px;
+    height: 200px;
+    background-color: #6f77de;
+   
+}
+#fiul{
+    display: inline;
+    float: left;
+    list-style-type: none;
+    margin-top: 60px;
+    position: absolute;
+    margin-left: 30px;
+
+}
+.fili{
+    margin-left: 30px;
+    display: inline;
+    margin-left: 230px;
+    margin-right: 40px;
+}
+#uli{
+    display: inline;
+    float: left;
+    margin-top: 120px;
+    
+}
+.lii{
+   
+    display: inline;
+    margin-left: 180px;
+    /* margin-right: 20px; */
+}
+#para{
+    background-color: rgb(242, 244, 246);
+}
+#se{
+    /* background-color: aquamarine; */
+    height: 350px;
+    width: 1400px;
+    margin-top: 30px;
+}
+#uul1{
+    display: inline;
+    float: left;
+    list-style-type: none;
+    /* margin-top: 30px; */
+    position: absolute;
+    margin-left: 20px;
+
+}
+.l1{
+    margin-left: 30px;
+    display: inline;
+    margin-left: 130px;
+    margin-right: 20px; 
+}
+#uul{
+    display: inline;
+    float: left;
+    /* margin-top: 250px; */
+}
+.l{
+  
+    display: inline;
+    margin-left: 160px;
+    margin-right: 150px;
+   text-decoration: none;
+
+}
